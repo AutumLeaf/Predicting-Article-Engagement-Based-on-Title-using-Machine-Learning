@@ -136,10 +136,6 @@ Contributions are welcome! If you'd like to improve this project:
 5. Push to the branch (`git push origin feature/improvement`)
 6. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details (if applicable).
-
 ## 👤 Author
 
 **AutumLeaf**
@@ -161,4 +157,4 @@ If you have questions or suggestions about this project, feel free to open an is
 
 ---
 
-**Last Updated**: March 26, 2026
+**Last Updated**: April 3, 2026
