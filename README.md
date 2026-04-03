@@ -23,13 +23,14 @@ Predicting content engagement is crucial for content creators and publishers. Th
 
 ```
 ├── Predicting_Article_Engagement_Based_on_Title_using_Machine_Learning.ipynb  # Main analysis notebook
-├── app.py                          # Streamlit application
+├── app.py                         # Streamlit application
 ├── retweet_model.pkl              # Trained model for retweet predictions
+├── dataset-tweets-final.json      # dataset use to train ml model
 ├── likes_model.pkl                # Trained model for likes predictions
 ├── claps_model.pkl                # Trained model for claps predictions
 ├── vectorizer.pkl                 # TF-IDF vectorizer for text transformation
 ├── requirements.txt               # Project dependencies
-└── README.md                       # This file
+└── README.md                      # This file
 ```
 
 ## 🚀 Live Demo
